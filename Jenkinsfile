@@ -1,5 +1,1 @@
-@Library("sharedLib@master") _
-
-wrapper {
-    mvn()
-}
+echo 'hello from Pipeline'
