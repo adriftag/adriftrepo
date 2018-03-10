@@ -1,3 +1,3 @@
-echo 'hello from Pipeline'
+echo 'hello mundo'
 checkout scm
 
